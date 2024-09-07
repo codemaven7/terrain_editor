@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>../images/for_pyqt_testing_32x32.png</file>
+    <file>../images/grass_16x16.png</file>
+    <file>../images/forest_16x16.png</file>
+    <file>../images/hill_16x16.png</file>
+    <file>../images/mountain_16x16.png</file>
+    <file>../images/fort_16x16.png</file>
+    <file>../images/castle_16x16.png</file>
+    <file>../images/water_16x16.png</file>
+</qresource>
+</RCC>
